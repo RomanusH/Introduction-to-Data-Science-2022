@@ -1,4 +1,0 @@
-City,Area[km2],Altitude[m]
-Bremen,318.21,11
-Hannover,204.3,55
-Oldenburg,103.09,5
